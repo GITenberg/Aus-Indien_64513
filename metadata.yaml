@@ -1,5 +1,8 @@
 _repo: Aus-Indien_64513
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64513-h/images/cover.jpg
 creator:
   author:
     agent_name: Hesse, Hermann
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Hermann_Hesse
     - https://de.wikipedia.org/wiki/Hermann_Hesse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64513#Aus-Indien
 gutenberg_issued: '2021-02-09'
 gutenberg_type: Text
 identifiers:
